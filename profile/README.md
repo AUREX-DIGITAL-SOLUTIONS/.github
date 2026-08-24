@@ -46,7 +46,7 @@ Our foundational documents are public:
 Aurex is early-stage and building openly. If you work in energy systems, distributed energy, grid software, data infrastructure, cybersecurity, policy, or African energy transition — we welcome conversation, review, and contribution.
 
 - **Location:** Nairobi, Kenya
-- **Contact:** _add role email when ready_
+- **Contact:** _aurexcv@gmail.com_
 
 ---
 
