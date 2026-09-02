@@ -5,7 +5,6 @@
 
 Aurex Digital Solutions is a Kenya-origin institution advancing reliable, interoperable, and public-interest digital energy systems across Africa.
 
-[Institutional documentation](https://github.com/AUREX-DIGITAL-SOLUTIONS/governance) | [GitHub organization](https://github.com/AUREX-DIGITAL-SOLUTIONS)
 
 ## Our Mandate
 
