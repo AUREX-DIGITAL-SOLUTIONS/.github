@@ -16,4 +16,4 @@ Aurex is under institutional development. This work is a documentation and resea
 
 ## Learn More
 
-- Institutional overview: [README](../../README.md)
+- Institutional overview: [README](https://github.com/AUREX-DIGITAL-SOLUTIONS/governance#)
