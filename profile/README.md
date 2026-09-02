@@ -1,4 +1,3 @@
-# Aurex Digital Solutions
 
 <img src="./assets/Aurex-transparent.png" alt="Aurex logo" width="220" />
 
