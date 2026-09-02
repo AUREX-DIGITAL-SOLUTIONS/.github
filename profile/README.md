@@ -1,5 +1,5 @@
 
-<img src="./assets/Aurex-transparent.png" alt="Aurex logo" width="220" />
+<img src="./assets/Aurex_Banner.png" alt="Aurex banner" width="100%" />
 
 Aurex Digital Solutions is building open digital energy coordination infrastructure for African energy systems, starting from Kenya.
 
