@@ -1,6 +1,4 @@
 
-# Aurex Digital Solutions
-
 ![Aurex Digital Solutions](./assets/banner_head.png)
 
 ## Open digital infrastructure for Africa's energy transition
